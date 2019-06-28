@@ -47,11 +47,23 @@ def findAdmin():
 			print "OK => ",req_link
 
 def Credit():
-	Space(9); print "#####################################"
-	Space(9); print "#   *** Admin Panel Finder ***   #"
-	Space(9); print "#     Script by Bangka Crew     #"
-	Space(9); print "#    Recoded By Akbar Dravinky #"
-	Space(9); print "#####################################"
+	// Author Name : Akbar Dravinky
+// Information List : - list
+// contact here : bangkaxploiter@gmail.com
+// Fb : http://facebook.com/bangkacrew
+// greetz : Bangka Crew
+
+print "   
+	
+ █████╗ ██████╗ ███╗   ███╗██╗███╗   ██╗    ███████╗██╗███╗   ██╗██████╗ ███████╗██████╗ 
+██╔══██╗██╔══██╗████╗ ████║██║████╗  ██║    ██╔════╝██║████╗  ██║██╔══██╗██╔════╝██╔══██╗
+███████║██║  ██║██╔████╔██║██║██╔██╗ ██║    █████╗  ██║██╔██╗ ██║██║  ██║█████╗  ██████╔╝
+██╔══██║██║  ██║██║╚██╔╝██║██║██║╚██╗██║    ██╔══╝  ██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗
+██║  ██║██████╔╝██║ ╚═╝ ██║██║██║ ╚████║    ██║     ██║██║ ╚████║██████╔╝███████╗██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+                                                                                         
+                Admin Finder - coded by ./Akbar Dravinky
+  Information list : -  list
 
 Credit()
 findAdmin()
